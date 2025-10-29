@@ -60,7 +60,7 @@ After saving the configuration, restart Claude Desktop to load the new MCP serve
 ## 📹 Demo Videos
 
 ### 🎥 1. Setting Up MCP in Claude Desktop
-🔗 [Watch Setup Video](zomato-setup.mp4)
+🔗 [Watch Setup Video](https://drive.google.com/file/d/15_m0KQEr6ft31U0svHa2HeMpzXpoMr4u/view?usp=drive_link)
 
 ### 🎥 2. Zomato MCP Demo — Restaurant Discovery to Payment
 🔗 [Watch Demo Video](https://drive.google.com/file/d/15mTAkqkbzlfsSpA_98d2VYbI1oe88qbO/view?usp=drive_link)
